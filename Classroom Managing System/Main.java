@@ -121,6 +121,7 @@ public class Main {
 
                                 if (Classroom.StudentExists(NewID)) {
                                     Classroom.RemoveStudent(Integer.parseInt(ID));
+                                    
                                     print(new String[]{" ⋅ Removed Student from Classroom"}, true);
                                 } else {
                                     print(new String[]{" ⋅ Unknown Student ID, Add a Student Using the \"A\" Parameter!"}, true);
