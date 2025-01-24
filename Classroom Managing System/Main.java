@@ -184,6 +184,7 @@ public class Main {
                     break;
             }
         }
+        
         Input.close();
     }
 }
