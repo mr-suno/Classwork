@@ -10,6 +10,11 @@ Coding projects we're doing/done in AP Comp. Science class
   - Parameter based command system: `-n = Name | -i = ID | -g = Grades`
 2. [Interface-less Calculator](https://github.com/mr-suno/Classwork/tree/main/Python%20Calculator) - Interface-less poorly coded calculator environment made in 30 minutes
 - - 90% PEMDAS Support, **Excluding** Parenthesis
+3. [Basic Movie Database](https://github.com/mr-suno/Classwork/tree/main/MovieDB) - Console-based badly made Movie storage with basic navigation options
+- - Find Movie by Title
+  - Remove/Add Movie via Title
+  - Display Movies **(Original, Alphabetic, Reversed)**
+  - DB Clearing + User-friendly design
 
 ## Stuff You'll See 🛠️
 
