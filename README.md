@@ -1,5 +1,5 @@
 # Classwork
-Coding projects we're doing/done in AP Comp. Science class
+Coding projects we're doing/done in AP Comp. Science class, or just whatever I wanna make to study I guess
 
 ## Dictionary 📜
 1. [Classroom Managing System](https://github.com/mr-suno/Classwork/tree/main/Classroom%20Managing%20System) - Terminal-based virtual student management system made in IntelliJ IDEA
