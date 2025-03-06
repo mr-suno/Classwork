@@ -8,6 +8,8 @@ Coding projects we're doing/done in AP Comp. Science class
   - Add Student: `A -n <String name> -i <int ID> -g <double[] grades>`
   - Display All Students: `S`
   - Parameter based command system: `-n = Name | -i = ID | -g = Grades`
+2. [Interface-less Calculator](https://github.com/mr-suno/Classwork/tree/main/Python%20Calculator) - Interface-less poorly coded calculator environment made in 30 minutes
+- - 90% PEMDAS Support, **Excluding** Parenthesis
 
 ## Stuff You'll See 🛠️
 
